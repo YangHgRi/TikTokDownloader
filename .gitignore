@@ -1,0 +1,5 @@
+cache
+venv
+*.pyc
+TikTokDownloader.db
+settings.json
